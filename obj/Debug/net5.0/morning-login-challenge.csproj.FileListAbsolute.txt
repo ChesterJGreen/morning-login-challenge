@@ -1,0 +1,16 @@
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\morning-login-challenge.csproj.AssemblyReference.cache
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\morning-login-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\morning-login-challenge.AssemblyInfoInputs.cache
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\morning-login-challenge.AssemblyInfo.cs
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\morning-login-challenge.csproj.CoreCompileInputs.cache
+C:\source\codeworks\morning-login-challenge\bin\Debug\net5.0\morning-login-challenge.exe
+C:\source\codeworks\morning-login-challenge\bin\Debug\net5.0\morning-login-challenge.deps.json
+C:\source\codeworks\morning-login-challenge\bin\Debug\net5.0\morning-login-challenge.runtimeconfig.json
+C:\source\codeworks\morning-login-challenge\bin\Debug\net5.0\morning-login-challenge.runtimeconfig.dev.json
+C:\source\codeworks\morning-login-challenge\bin\Debug\net5.0\morning-login-challenge.dll
+C:\source\codeworks\morning-login-challenge\bin\Debug\net5.0\ref\morning-login-challenge.dll
+C:\source\codeworks\morning-login-challenge\bin\Debug\net5.0\morning-login-challenge.pdb
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\morning-login-challenge.dll
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\ref\morning-login-challenge.dll
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\morning-login-challenge.pdb
+C:\source\codeworks\morning-login-challenge\obj\Debug\net5.0\morning-login-challenge.genruntimeconfig.cache
